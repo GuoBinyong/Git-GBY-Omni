@@ -15,7 +15,6 @@ Git-GBY 是我制作的 OmniGraffle 型版，包含了用于绘制 Git 分支图
 - 给该仓库提交 [issues][]
 - 给我 Pull requests
 - 邮箱：<guobinyong@qq.com>
-- QQ：guobinyong@qq.com
 - 微信：keyanzhe
 
 
